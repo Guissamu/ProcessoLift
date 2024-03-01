@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_div {
+    display: flex;
+    justify-content: center;
+}
+
+.sub_div {
+    padding: 10px;
+}
+
+.ulDescricao {
+    padding: 0px 90px;
+}
+
+li {
+    list-style: none;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    height: 70px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
